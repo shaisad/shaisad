@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 
 
 <!--
 **shaisad/shaisad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: shairasadia@iut-dhaka.edu
+
+- Languages:
+
+https://www.java.com/en/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
