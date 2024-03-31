@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: shairasadia@iut-dhaka.edu
+📫 How to reach me: shairasadia@iut-dhaka.edu
 
-- Languages:
+Languages:
 
-https://www.java.com/en/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+![Total Commits](https://img.shields.io/github/commit-activity/y/shaisad)
+
