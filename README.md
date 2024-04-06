@@ -5,7 +5,7 @@
 
  ### 📫 How to reach me: **shairasadia@iut-dhaka.edu** 
 
- ### Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaira-sadia-karim-444b56301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaira-sadia-karim-444b56301" height="30" width="40" /></a>
+ ### Connect with me: <a href="https://linkedin.com/in/shaira-sadia-karim-444b56301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaira-sadia-karim-444b56301" height="30" width="40" /></a>
 
 
 
